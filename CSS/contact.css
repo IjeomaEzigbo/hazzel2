@@ -120,7 +120,7 @@ margin-right: 25px;
     color:white ;
     font-size: 25px;
     font-family: poppins;
-    margin-bottom: 5px;
+    margin: 5px 0 5px 0;
     text-align: center;
   
   }
@@ -131,11 +131,14 @@ margin-right: 25px;
     padding-bottom: 5px;
     padding-left: 20px;
     padding-right: 20px;
-    margin: 0;
+   
     text-align: center;
     place-content: center;
     
     line-height: 2;
+  }
+  .second{
+    margin: 10px 0 10px 0; 
   }
   .free{
     color: white;
@@ -156,7 +159,7 @@ margin-right: 25px;
 
     background-color:white;
     width: 230px;
-    height: 350px;
+    height: 400px;
     color: gray;
    
     margin: 0px;
